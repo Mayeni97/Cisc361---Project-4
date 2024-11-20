@@ -109,8 +109,4 @@ $ echo hello      # Executes silently
 
 ---
 
-### Submission Instructions
-- Commit all changes to the "CISC361 Project 2" repository.
-- Push your final version by **Nov 1, 11:59 PM**.
-
 Good luck! 🎉
